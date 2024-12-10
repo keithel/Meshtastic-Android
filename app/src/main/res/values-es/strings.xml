@@ -185,4 +185,5 @@
     <string name="mute_8_hours">8 horas</string>
     <string name="mute_1_week">1 semana</string>
     <string name="mute_always">Siempre</string>
+    <string name="show_reactions">Mostrar reacciones</string>
 </resources>
